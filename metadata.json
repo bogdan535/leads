@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Business Lead Finder",
+  "description": "An application to find business leads by searching across multiple locations from a CSV file using various search terms. It utilizes the Maps Data API to enrich results and allows exporting the findings.",
+  "requestFramePermissions": []
+}
